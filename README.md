@@ -5,8 +5,8 @@ Desafio Prático 01 | Desenvolver uma página web com informações sobre um det
   ✔️ Fontes 
   ✔️ Imagens
   ✔️ Espaçamentos
-  ✔️ Estrutura HTML <br>
-  ✔️ Listas desordenadas
+  ✔️ Estrutura HTML 
+  ✔️ Listas desordenadas <br>
   ✔️ Estilizações com CSS
   ✔️ Alterações das cores dos textos
   ✔️ Alterações dos pesos dos textos
